@@ -1,8 +1,6 @@
-Here, you'll find my portfolio. It contains several notable professional and personal projects.
+# What is TM1?
+IBM Planning Analytics powered by TM1 is the technology used for making spreadsheet-centric budgeting, forecasting, financial reporting scale to the enterprise. TM1 combines the freedom, flexibility and familiarity of spreadsheets with the power and control of an enterprise database.
 
-Feel free to reach out or provide any feeback.
+In this directory, you will find several notable examples of my experience using TM1. Proprietaty data has been stripped and all problem statemnts have been reduced to a genearlized example
 
-<!---
-jfinallenewton/jfinallenewton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Please look around and reach out if you have any questions!

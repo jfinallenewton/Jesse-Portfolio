@@ -1,6 +1,7 @@
-# What is TM1?
-IBM Planning Analytics powered by TM1 is the technology used for making spreadsheet-centric budgeting, forecasting, and other financial reporting scale to the growth of  business or enterprise. TM1 combines the freedom, flexibility and familiarity of spreadsheets with the power and control of an enterprise database.
+# Problem 1
+## Problem Statement
+Customer A would like to use TM1 to access existing financial files in a dynamic relational database
 
-In this directory, you will find several notable examples of my experience using TM1. Proprietaty data has been stripped and all problem statemnts have been reduced to a genearlized example
+The code samples in this directory demonstrate my ability to understand the problem statement and write code that achieves this goal
 
-Please look around and reach out if you have any questions!
+Proprietaty information has been removed.
